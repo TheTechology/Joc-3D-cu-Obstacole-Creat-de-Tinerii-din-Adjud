@@ -1,27 +1,33 @@
-# 🚗 Joc 3D cu Obstacole - Creat de Tinerii din Adjud
 
-Acesta este **primul joc 3D interactiv** realizat de tinerii beneficiari ai programelor de educație digitală oferite de [Asociația Grupul Verde](https://grupulverde.ro), în cadrul inițiativelor locale din Adjud, Vrancea.
+## 🕹️ Controale
 
-## 🎮 Descriere
+- **Săgeți tastatură** sau butoanele de pe ecran:
+  - ▲ înainte
+  - ▼ înapoi
+  - ◀ stânga
+  - ▶ dreapta
+- **Scopul jocului**: obține un scor cât mai mare și evită obstacolele.
 
-Este un joc 3D unde utilizatorul controlează un personaj care traversează drumuri, evitând mașinile și camioanele, și păduri generate aleator. Scopul este de a ajunge cât mai departe fără a fi lovit.
+## 🏆 Pentru Cine Este
 
-Jocul a fost dezvoltat folosind:
+- Elevi și studenți interesați de programare
+- Profesori de informatică
+- ONG-uri care doresc să implementeze proiecte STEM locale
+- Tineri curioși să învețe JavaScript și 3D
 
-- **HTML/CSS/JavaScript**
-- **Three.js** – o bibliotecă JavaScript pentru grafică 3D
-- Elemente grafice desenate dinamic cu `CanvasTexture`
-- Sistem de control cu taste direcționale sau butoane tactile
+## 🧠 Ce Înveți din Proiect
 
-## 🧑‍💻 Creat pentru Educație
+- Cum să construiești o scenă 3D cu Three.js
+- Cum să controlezi un personaj pe o hartă generată dinamic
+- Cum să folosești texturi personalizate și lumini direcționale
+- Cum să implementezi o interfață simplă de utilizator
 
-Acest proiect este rezultatul unui atelier de inițiere în programare 3D și gândire logică. Participanții au învățat concepte precum:
+## ❤️ Creat de
 
-- Programare modulară
-- Geometrie 3D
-- Detectarea coliziunilor
-- Bucla de animație (`requestAnimationFrame`)
-- Controlul camerei și luminii
+Tinerii participanți la atelierele de educație digitală organizate de **Asociația Grupul Verde** în Adjud, Vrancea  
+🌱 Pentru un viitor sustenabil și digitalizat!
 
-## 📁 Structura Proiectului
+---
+
+📫 Pentru întrebări sau colaborări: [office@grupulverde.ro](mailto:office@grupulverde.ro)
 
